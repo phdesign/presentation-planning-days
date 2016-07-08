@@ -63,11 +63,15 @@ On the 8th June the Redfin team went offsite for a planning day, I'm going to sh
 
 Firstly, set a clear objective for the day. This will help when planning the agenda and set expectations for what we want to achieve. For example, the Redfin planning day objective was to *"To come out with a shared understanding of our product, our client needs and our competitors so we can have a clear technical vision for the year ahead."*. The agenda was built around this, we had product strategy present the roadmap and competitor analysis, we ran games to familiarise ourselves with our client base, and we discussed a technical strategy for our upcoming initiatives.
 
-I take the role of Technical Advisor very literally, I try to promote autonomy by not telling the team what to do but by advising them so they can make their own informed decisions. To that end I didn't want the team to just attend the planning day, I wanted them to be involved in it. Developing the agenda was done in collaboration with the team and with product strategy, and anyone interested was welcome to run a session. 
+Get the whole team involved in planning the planning day. Make them involved in it rather than just attending it, invite team members to run a session, it's a good professional development opportunity.
 
-I wanted to set a flow for the day based on the double diamond design process ()
+Here's our agenda. We opened the day with product strategy's vision for the module, including looking at market placement, competitor analysis and win / loss analysis. 
 
-Here's what we came up with for our agenda. We opened the day with product strategy's vision for the module, including looking at market placement, competitor analysis and win / loss analysis. 
+You can see there's a flow to this agenda, we started with a learning about what our customers want, then Owen presented the initiative roadmap for how we're going to get there, we then focused on a couple of areas of our system we knew we wanted to refine and ran a design jam session to brainstorm different solutions to the problem, all leading up to a deeper discussion in the technical strategy about how we'll deliver on these solutions. 
+
+Allow time during the day for innovation, be explicit about when we're open to crazy ideas and new approaches, but bring those ideas back to reality in some concrete outcomes.
+
+We found it great having Dayne join us for our strategy and design jam sessions, and Tal provided some useful guidance in our technical strategy discussion.
 
 ### Venue
 
